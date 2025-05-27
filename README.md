@@ -1,6 +1,6 @@
 # ✨ Samira Lins
 
-Dev em formação | SI @ USP | Background técnico em Informática para Internet desde o Ensino Médio.
+Dev em formação | Sistemas de Informação @ USP | Background técnico em Informática para Internet desde o Ensino Médio.
 
 ---
 ### 👾 Linguagens e Tecnologias
